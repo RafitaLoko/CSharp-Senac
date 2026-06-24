@@ -1,0 +1,14 @@
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\OrientacaoAObjeto\bin\Debug\net8.0\OrientacaoAObjeto.exe
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\OrientacaoAObjeto\bin\Debug\net8.0\OrientacaoAObjeto.deps.json
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\OrientacaoAObjeto\bin\Debug\net8.0\OrientacaoAObjeto.runtimeconfig.json
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\OrientacaoAObjeto\bin\Debug\net8.0\OrientacaoAObjeto.dll
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\OrientacaoAObjeto\bin\Debug\net8.0\OrientacaoAObjeto.pdb
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\OrientacaoAObjeto\obj\Debug\net8.0\OrientacaoAObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\OrientacaoAObjeto\obj\Debug\net8.0\OrientacaoAObjeto.AssemblyInfoInputs.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\OrientacaoAObjeto\obj\Debug\net8.0\OrientacaoAObjeto.AssemblyInfo.cs
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\OrientacaoAObjeto\obj\Debug\net8.0\OrientacaoAObjeto.csproj.CoreCompileInputs.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\OrientacaoAObjeto\obj\Debug\net8.0\OrientacaoAObjeto.dll
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\OrientacaoAObjeto\obj\Debug\net8.0\refint\OrientacaoAObjeto.dll
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\OrientacaoAObjeto\obj\Debug\net8.0\OrientacaoAObjeto.pdb
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\OrientacaoAObjeto\obj\Debug\net8.0\OrientacaoAObjeto.genruntimeconfig.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\OrientacaoAObjeto\obj\Debug\net8.0\ref\OrientacaoAObjeto.dll

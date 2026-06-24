@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lacosDeRepeticao", "lacosDeRepeticao.csproj", "{DFFC3C87-A5EE-4617-9A69-C21CF5A992A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFFC3C87-A5EE-4617-9A69-C21CF5A992A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFC3C87-A5EE-4617-9A69-C21CF5A992A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFC3C87-A5EE-4617-9A69-C21CF5A992A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFC3C87-A5EE-4617-9A69-C21CF5A992A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66CEFD6A-2700-4548-BDF0-FEE58B2C43DC}
+	EndGlobalSection
+EndGlobal

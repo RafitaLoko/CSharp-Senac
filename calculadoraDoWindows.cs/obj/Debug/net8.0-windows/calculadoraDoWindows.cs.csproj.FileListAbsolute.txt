@@ -1,0 +1,16 @@
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\calculadoraDoWindows.cs\obj\Debug\net8.0-windows\calculadoraDoWindows.cs.Calculadora.resources
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\calculadoraDoWindows.cs\obj\Debug\net8.0-windows\calculadoraDoWindows.cs.csproj.GenerateResource.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\calculadoraDoWindows.cs\obj\Debug\net8.0-windows\calculadoraDoWindows.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\calculadoraDoWindows.cs\obj\Debug\net8.0-windows\calculadoraDoWindows.cs.AssemblyInfoInputs.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\calculadoraDoWindows.cs\obj\Debug\net8.0-windows\calculadoraDoWindows.cs.AssemblyInfo.cs
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\calculadoraDoWindows.cs\obj\Debug\net8.0-windows\calculadoraDoWindows.cs.csproj.CoreCompileInputs.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\calculadoraDoWindows.cs\bin\Debug\net8.0-windows\calculadoraDoWindows.cs.exe
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\calculadoraDoWindows.cs\bin\Debug\net8.0-windows\calculadoraDoWindows.cs.deps.json
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\calculadoraDoWindows.cs\bin\Debug\net8.0-windows\calculadoraDoWindows.cs.runtimeconfig.json
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\calculadoraDoWindows.cs\bin\Debug\net8.0-windows\calculadoraDoWindows.cs.dll
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\calculadoraDoWindows.cs\bin\Debug\net8.0-windows\calculadoraDoWindows.cs.pdb
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\calculadoraDoWindows.cs\obj\Debug\net8.0-windows\calculadoraDoWindows.cs.dll
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\calculadoraDoWindows.cs\obj\Debug\net8.0-windows\refint\calculadoraDoWindows.cs.dll
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\calculadoraDoWindows.cs\obj\Debug\net8.0-windows\calculadoraDoWindows.cs.pdb
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\calculadoraDoWindows.cs\obj\Debug\net8.0-windows\calculadoraDoWindows.cs.genruntimeconfig.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\calculadoraDoWindows.cs\obj\Debug\net8.0-windows\ref\calculadoraDoWindows.cs.dll

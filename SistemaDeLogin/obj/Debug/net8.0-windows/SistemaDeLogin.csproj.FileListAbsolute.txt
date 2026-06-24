@@ -1,0 +1,17 @@
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaDeLogin\bin\Debug\net8.0-windows\SistemaDeLogin.exe
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaDeLogin\bin\Debug\net8.0-windows\SistemaDeLogin.deps.json
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaDeLogin\bin\Debug\net8.0-windows\SistemaDeLogin.runtimeconfig.json
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaDeLogin\bin\Debug\net8.0-windows\SistemaDeLogin.dll
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaDeLogin\bin\Debug\net8.0-windows\SistemaDeLogin.pdb
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaDeLogin\obj\Debug\net8.0-windows\SistemaDeLogin.csproj.GenerateResource.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaDeLogin\obj\Debug\net8.0-windows\SistemaDeLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaDeLogin\obj\Debug\net8.0-windows\SistemaDeLogin.AssemblyInfoInputs.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaDeLogin\obj\Debug\net8.0-windows\SistemaDeLogin.AssemblyInfo.cs
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaDeLogin\obj\Debug\net8.0-windows\SistemaDeLogin.csproj.CoreCompileInputs.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaDeLogin\obj\Debug\net8.0-windows\SistemaDeLogin.dll
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaDeLogin\obj\Debug\net8.0-windows\refint\SistemaDeLogin.dll
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaDeLogin\obj\Debug\net8.0-windows\SistemaDeLogin.pdb
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaDeLogin\obj\Debug\net8.0-windows\SistemaDeLogin.genruntimeconfig.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaDeLogin\obj\Debug\net8.0-windows\ref\SistemaDeLogin.dll
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaDeLogin\obj\Debug\net8.0-windows\SistemaDeLogin.FrmLogin.resources
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaDeLogin\obj\Debug\net8.0-windows\SistemaDeLogin.MenuPrincipal.resources

@@ -1,0 +1,14 @@
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\ExercicioContadorDe1A10\bin\Debug\net8.0\ExercicioContadorDe1A10.exe
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\ExercicioContadorDe1A10\bin\Debug\net8.0\ExercicioContadorDe1A10.deps.json
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\ExercicioContadorDe1A10\bin\Debug\net8.0\ExercicioContadorDe1A10.runtimeconfig.json
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\ExercicioContadorDe1A10\bin\Debug\net8.0\ExercicioContadorDe1A10.dll
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\ExercicioContadorDe1A10\bin\Debug\net8.0\ExercicioContadorDe1A10.pdb
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\ExercicioContadorDe1A10\obj\Debug\net8.0\ExercicioContadorDe1A10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\ExercicioContadorDe1A10\obj\Debug\net8.0\ExercicioContadorDe1A10.AssemblyInfoInputs.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\ExercicioContadorDe1A10\obj\Debug\net8.0\ExercicioContadorDe1A10.AssemblyInfo.cs
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\ExercicioContadorDe1A10\obj\Debug\net8.0\ExercicioContadorDe1A10.csproj.CoreCompileInputs.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\ExercicioContadorDe1A10\obj\Debug\net8.0\ExercicioContadorDe1A10.dll
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\ExercicioContadorDe1A10\obj\Debug\net8.0\refint\ExercicioContadorDe1A10.dll
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\ExercicioContadorDe1A10\obj\Debug\net8.0\ExercicioContadorDe1A10.pdb
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\ExercicioContadorDe1A10\obj\Debug\net8.0\ExercicioContadorDe1A10.genruntimeconfig.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\ExercicioContadorDe1A10\obj\Debug\net8.0\ref\ExercicioContadorDe1A10.dll

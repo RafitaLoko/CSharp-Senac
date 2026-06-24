@@ -1,0 +1,14 @@
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\MeuPrimeiroprojetoC#\MeuPrimeiroprojetoC#\bin\Debug\net8.0\MeuPrimeiroprojetoC#.exe
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\MeuPrimeiroprojetoC#\MeuPrimeiroprojetoC#\bin\Debug\net8.0\MeuPrimeiroprojetoC#.deps.json
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\MeuPrimeiroprojetoC#\MeuPrimeiroprojetoC#\bin\Debug\net8.0\MeuPrimeiroprojetoC#.runtimeconfig.json
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\MeuPrimeiroprojetoC#\MeuPrimeiroprojetoC#\bin\Debug\net8.0\MeuPrimeiroprojetoC#.dll
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\MeuPrimeiroprojetoC#\MeuPrimeiroprojetoC#\bin\Debug\net8.0\MeuPrimeiroprojetoC#.pdb
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\MeuPrimeiroprojetoC#\MeuPrimeiroprojetoC#\obj\Debug\net8.0\MeuPrimeiroprojetoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\MeuPrimeiroprojetoC#\MeuPrimeiroprojetoC#\obj\Debug\net8.0\MeuPrimeiroprojetoC#.AssemblyInfoInputs.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\MeuPrimeiroprojetoC#\MeuPrimeiroprojetoC#\obj\Debug\net8.0\MeuPrimeiroprojetoC#.AssemblyInfo.cs
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\MeuPrimeiroprojetoC#\MeuPrimeiroprojetoC#\obj\Debug\net8.0\MeuPrimeiroprojetoC#.csproj.CoreCompileInputs.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\MeuPrimeiroprojetoC#\MeuPrimeiroprojetoC#\obj\Debug\net8.0\MeuPrimeiroprojetoC#.dll
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\MeuPrimeiroprojetoC#\MeuPrimeiroprojetoC#\obj\Debug\net8.0\refint\MeuPrimeiroprojetoC#.dll
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\MeuPrimeiroprojetoC#\MeuPrimeiroprojetoC#\obj\Debug\net8.0\MeuPrimeiroprojetoC#.pdb
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\MeuPrimeiroprojetoC#\MeuPrimeiroprojetoC#\obj\Debug\net8.0\MeuPrimeiroprojetoC#.genruntimeconfig.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\MeuPrimeiroprojetoC#\MeuPrimeiroprojetoC#\obj\Debug\net8.0\ref\MeuPrimeiroprojetoC#.dll
