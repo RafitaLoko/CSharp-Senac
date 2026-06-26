@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\OrientacaoAObjeto\\",
+  "WorkspaceRootPath": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\OrientacaoAObjeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B67BEC8-44C5-434C-90A7-0DE96F7BC4F3}|OrientacaoAObjeto.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\c#-senac\\orientacaoaobjeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B67BEC8-44C5-434C-90A7-0DE96F7BC4F3}|OrientacaoAObjeto.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\csharp-senac\\orientacaoaobjeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B67BEC8-44C5-434C-90A7-0DE96F7BC4F3}|OrientacaoAObjeto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B67BEC8-44C5-434C-90A7-0DE96F7BC4F3}|OrientacaoAObjeto.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\c#-senac\\orientacaoaobjeto\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B67BEC8-44C5-434C-90A7-0DE96F7BC4F3}|OrientacaoAObjeto.csproj|solutionrelative:pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B67BEC8-44C5-434C-90A7-0DE96F7BC4F3}|OrientacaoAObjeto.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\c#-senac\\orientacaoaobjeto\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B67BEC8-44C5-434C-90A7-0DE96F7BC4F3}|OrientacaoAObjeto.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\csharp-senac\\orientacaoaobjeto\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B67BEC8-44C5-434C-90A7-0DE96F7BC4F3}|OrientacaoAObjeto.csproj|solutionrelative:pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B67BEC8-44C5-434C-90A7-0DE96F7BC4F3}|OrientacaoAObjeto.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\c#-senac\\orientacaoaobjeto\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B67BEC8-44C5-434C-90A7-0DE96F7BC4F3}|OrientacaoAObjeto.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\csharp-senac\\orientacaoaobjeto\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B67BEC8-44C5-434C-90A7-0DE96F7BC4F3}|OrientacaoAObjeto.csproj|solutionrelative:cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B67BEC8-44C5-434C-90A7-0DE96F7BC4F3}|OrientacaoAObjeto.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\csharp-senac\\orientacaoaobjeto\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B67BEC8-44C5-434C-90A7-0DE96F7BC4F3}|OrientacaoAObjeto.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,54 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Cachorro.cs",
-              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\OrientacaoAObjeto\\Cachorro.cs",
-              "RelativeDocumentMoniker": "Cachorro.cs",
-              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\OrientacaoAObjeto\\Cachorro.cs",
-              "RelativeToolTip": "Cachorro.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\OrientacaoAObjeto\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\OrientacaoAObjeto\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-12T23:07:26.129Z"
+              "WhenOpened": "2026-06-25T22:56:30.466Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\OrientacaoAObjeto\\Pessoa.cs",
-              "RelativeDocumentMoniker": "Pessoa.cs",
-              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\OrientacaoAObjeto\\Pessoa.cs",
-              "RelativeToolTip": "Pessoa.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwBkAAAAvAAAAAAAAAA==",
+              "Title": "Cachorro.cs",
+              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\OrientacaoAObjeto\\Cachorro.cs",
+              "RelativeDocumentMoniker": "Cachorro.cs",
+              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\OrientacaoAObjeto\\Cachorro.cs",
+              "RelativeToolTip": "Cachorro.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T23:26:51.603Z"
+              "WhenOpened": "2026-06-12T23:07:26.129Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\OrientacaoAObjeto\\Pedido.cs",
-              "RelativeDocumentMoniker": "Pedido.cs",
-              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\OrientacaoAObjeto\\Pedido.cs",
-              "RelativeToolTip": "Pedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\OrientacaoAObjeto\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Pessoa.cs",
+              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\OrientacaoAObjeto\\Pessoa.cs",
+              "RelativeToolTip": "Pessoa.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-12T23:28:49.859Z",
+              "WhenOpened": "2026-06-11T23:26:51.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\OrientacaoAObjeto\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\OrientacaoAObjeto\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\OrientacaoAObjeto\\Program.cs",
+              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\OrientacaoAObjeto\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAArwFgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T23:03:19.842Z",
               "EditorCaption": ""

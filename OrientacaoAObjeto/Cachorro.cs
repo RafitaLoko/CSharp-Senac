@@ -2,10 +2,10 @@
 
 namespace OrientacaoAObjeto
 {
-    internal class Cachorro
+    public class Cachorro : Animal
     {
-        public Cachorro(string nome, DateTime dataDeNscimento, double peso, string raca, bool adestrado ) 
-        
+        public Cachorro(string nome, DateTime dataDeNscimento, double peso, string raca, bool adestrado)
+
         {
             Nome = nome;
             DataDeNascimento = dataDeNscimento;
@@ -16,13 +16,31 @@ namespace OrientacaoAObjeto
 
 
 
-        public string Nome { get; private set; }
-        public DateTime DataDeNascimento { get; private set; }
 
-        public double Peso { get; set; }
+
+
+
 
         public string Raca { get; private set; }
 
         public bool Adestrado { get; set; }
+
+
+        public override void SeComunicar()
+        {
+            Console.WriteLine($"Au au!");
+
+        }
+
+        public void Caminhar()
+        {
+            Console.WriteLine("Cachorro caminhando ...");
+        }
+       
+        
     }
+
+
+
+    
 }
