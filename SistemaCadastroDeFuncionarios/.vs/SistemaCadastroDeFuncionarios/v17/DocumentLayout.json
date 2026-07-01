@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\SistemaCadastroDeFuncionarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4000155-1900-4A16-8F73-9BFD119BB94A}|SistemaCadastroDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\c#-senac\\sistemacadastrodefuncionarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4000155-1900-4A16-8F73-9BFD119BB94A}|SistemaCadastroDeFuncionarios.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4000155-1900-4A16-8F73-9BFD119BB94A}|SistemaCadastroDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\c#-senac\\sistemacadastrodefuncionarios\\funcionarioclt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4000155-1900-4A16-8F73-9BFD119BB94A}|SistemaCadastroDeFuncionarios.csproj|solutionrelative:funcionarioclt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4000155-1900-4A16-8F73-9BFD119BB94A}|SistemaCadastroDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\c#-senac\\sistemacadastrodefuncionarios\\funcionarioestagiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4000155-1900-4A16-8F73-9BFD119BB94A}|SistemaCadastroDeFuncionarios.csproj|solutionrelative:funcionarioestagiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4000155-1900-4A16-8F73-9BFD119BB94A}|SistemaCadastroDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\c#-senac\\sistemacadastrodefuncionarios\\funcionarioterceirizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4000155-1900-4A16-8F73-9BFD119BB94A}|SistemaCadastroDeFuncionarios.csproj|solutionrelative:funcionarioterceirizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4000155-1900-4A16-8F73-9BFD119BB94A}|SistemaCadastroDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\c#-senac\\sistemacadastrodefuncionarios\\funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4000155-1900-4A16-8F73-9BFD119BB94A}|SistemaCadastroDeFuncionarios.csproj|solutionrelative:funcionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FuncionarioTerceirizado.cs",
+              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\SistemaCadastroDeFuncionarios\\FuncionarioTerceirizado.cs",
+              "RelativeDocumentMoniker": "FuncionarioTerceirizado.cs",
+              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\SistemaCadastroDeFuncionarios\\FuncionarioTerceirizado.cs",
+              "RelativeToolTip": "FuncionarioTerceirizado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T00:01:21.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FuncionarioEstagiario.cs",
+              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\SistemaCadastroDeFuncionarios\\FuncionarioEstagiario.cs",
+              "RelativeDocumentMoniker": "FuncionarioEstagiario.cs",
+              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\SistemaCadastroDeFuncionarios\\FuncionarioEstagiario.cs",
+              "RelativeToolTip": "FuncionarioEstagiario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T23:26:30.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FuncionarioClt.cs",
+              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\SistemaCadastroDeFuncionarios\\FuncionarioClt.cs",
+              "RelativeDocumentMoniker": "FuncionarioClt.cs",
+              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\SistemaCadastroDeFuncionarios\\FuncionarioClt.cs",
+              "RelativeToolTip": "FuncionarioClt.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T23:15:13.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Funcionarios.cs",
+              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\SistemaCadastroDeFuncionarios\\Funcionarios.cs",
+              "RelativeDocumentMoniker": "Funcionarios.cs",
+              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\SistemaCadastroDeFuncionarios\\Funcionarios.cs",
+              "RelativeToolTip": "Funcionarios.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T00:22:24.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\SistemaCadastroDeFuncionarios\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\SistemaCadastroDeFuncionarios\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAkwDwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T00:11:21.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

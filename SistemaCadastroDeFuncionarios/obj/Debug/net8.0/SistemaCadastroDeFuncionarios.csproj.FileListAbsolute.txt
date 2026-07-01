@@ -1,0 +1,14 @@
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaCadastroDeFuncionarios\bin\Debug\net8.0\SistemaCadastroDeFuncionarios.exe
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaCadastroDeFuncionarios\bin\Debug\net8.0\SistemaCadastroDeFuncionarios.deps.json
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaCadastroDeFuncionarios\bin\Debug\net8.0\SistemaCadastroDeFuncionarios.runtimeconfig.json
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaCadastroDeFuncionarios\bin\Debug\net8.0\SistemaCadastroDeFuncionarios.dll
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaCadastroDeFuncionarios\bin\Debug\net8.0\SistemaCadastroDeFuncionarios.pdb
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaCadastroDeFuncionarios\obj\Debug\net8.0\SistemaCadastroDeFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaCadastroDeFuncionarios\obj\Debug\net8.0\SistemaCadastroDeFuncionarios.AssemblyInfoInputs.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaCadastroDeFuncionarios\obj\Debug\net8.0\SistemaCadastroDeFuncionarios.AssemblyInfo.cs
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaCadastroDeFuncionarios\obj\Debug\net8.0\SistemaCadastroDeFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaCadastroDeFuncionarios\obj\Debug\net8.0\SistemaCadastroDeFuncionarios.dll
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaCadastroDeFuncionarios\obj\Debug\net8.0\refint\SistemaCadastroDeFuncionarios.dll
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaCadastroDeFuncionarios\obj\Debug\net8.0\SistemaCadastroDeFuncionarios.pdb
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaCadastroDeFuncionarios\obj\Debug\net8.0\SistemaCadastroDeFuncionarios.genruntimeconfig.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\SistemaCadastroDeFuncionarios\obj\Debug\net8.0\ref\SistemaCadastroDeFuncionarios.dll

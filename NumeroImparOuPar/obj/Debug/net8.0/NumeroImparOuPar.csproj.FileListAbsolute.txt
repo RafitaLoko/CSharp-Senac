@@ -1,0 +1,14 @@
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\NumeroImparOuPar\bin\Debug\net8.0\NumeroImparOuPar.exe
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\NumeroImparOuPar\bin\Debug\net8.0\NumeroImparOuPar.deps.json
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\NumeroImparOuPar\bin\Debug\net8.0\NumeroImparOuPar.runtimeconfig.json
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\NumeroImparOuPar\bin\Debug\net8.0\NumeroImparOuPar.dll
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\NumeroImparOuPar\bin\Debug\net8.0\NumeroImparOuPar.pdb
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\NumeroImparOuPar\obj\Debug\net8.0\NumeroImparOuPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\NumeroImparOuPar\obj\Debug\net8.0\NumeroImparOuPar.AssemblyInfoInputs.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\NumeroImparOuPar\obj\Debug\net8.0\NumeroImparOuPar.AssemblyInfo.cs
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\NumeroImparOuPar\obj\Debug\net8.0\NumeroImparOuPar.csproj.CoreCompileInputs.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\NumeroImparOuPar\obj\Debug\net8.0\NumeroImparOuPar.dll
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\NumeroImparOuPar\obj\Debug\net8.0\refint\NumeroImparOuPar.dll
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\NumeroImparOuPar\obj\Debug\net8.0\NumeroImparOuPar.pdb
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\NumeroImparOuPar\obj\Debug\net8.0\NumeroImparOuPar.genruntimeconfig.cache
+C:\Users\RAFAELDECARVALHOWEND\Desktop\C#-Senac\NumeroImparOuPar\obj\Debug\net8.0\ref\NumeroImparOuPar.dll
