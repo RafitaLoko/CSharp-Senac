@@ -1,49 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\",
+  "WorkspaceRootPath": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\c#-senac\\gerenciamentodefuncionarios\\forms\\frmatualizacaofuncionarionovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|solutionrelative:forms\\frmatualizacaofuncionarionovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\csharp-senac\\gerenciamentodefuncionarios\\banco\\repositories\\dependenterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|solutionrelative:banco\\repositories\\dependenterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\c#-senac\\gerenciamentodefuncionarios\\forms\\frmloginfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|solutionrelative:forms\\frmloginfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\c#-senac\\gerenciamentodefuncionarios\\banco\\repositories\\funcionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\csharp-senac\\gerenciamentodefuncionarios\\banco\\repositories\\funcionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|solutionrelative:banco\\repositories\\funcionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\c#-senac\\gerenciamentodefuncionarios\\modelos\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\csharp-senac\\gerenciamentodefuncionarios\\forms\\frmdependente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|solutionrelative:forms\\frmdependente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\csharp-senac\\gerenciamentodefuncionarios\\forms\\frmdependente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|solutionrelative:forms\\frmdependente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\csharp-senac\\gerenciamentodefuncionarios\\modelos\\dependente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|solutionrelative:modelos\\dependente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\csharp-senac\\gerenciamentodefuncionarios\\modelos\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|solutionrelative:modelos\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\c#-senac\\gerenciamentodefuncionarios\\forms\\frmatualizacaofuncionarionovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|solutionrelative:forms\\frmatualizacaofuncionarionovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\c#-senac\\gerenciamentodefuncionarios\\forms\\frmcadastrofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|solutionrelative:forms\\frmcadastrofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\c#-senac\\gerenciamentodefuncionarios\\forms\\frmtelaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\csharp-senac\\gerenciamentodefuncionarios\\forms\\frmtelaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|solutionrelative:forms\\frmtelaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\forms\\frmtelaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\forms\\frmtelaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|solutionrelative:forms\\frmtelaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\forms\\frmtelanova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\csharp-senac\\gerenciamentodefuncionarios\\forms\\frmcadastrofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|solutionrelative:forms\\frmcadastrofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\forms\\frmtelanova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|solutionrelative:forms\\frmtelanova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\c#-senac\\gerenciamentodefuncionarios\\forms\\formloginadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\csharp-senac\\gerenciamentodefuncionarios\\forms\\formloginadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|solutionrelative:forms\\formloginadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\c#-senac\\gerenciamentodefuncionarios\\forms\\frmtelanova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|c:\\users\\rafaeldecarvalhowend\\desktop\\csharp-senac\\gerenciamentodefuncionarios\\forms\\frmtelanova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9628F1EA-592D-4DBA-9095-241969D8C686}|GerenciamentoDeFuncionarios.csproj|solutionrelative:forms\\frmtelanova.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -63,142 +67,150 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmAtualizacaoFuncionarioNovo.cs",
-              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Forms\\frmAtualizacaoFuncionarioNovo.cs",
-              "RelativeDocumentMoniker": "Forms\\frmAtualizacaoFuncionarioNovo.cs",
-              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Forms\\frmAtualizacaoFuncionarioNovo.cs",
-              "RelativeToolTip": "Forms\\frmAtualizacaoFuncionarioNovo.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAlwCcAAAA/AAAAAAAAAA==",
+              "Title": "DependenteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Banco\\Repositories\\DependenteRepository.cs",
+              "RelativeDocumentMoniker": "Banco\\Repositories\\DependenteRepository.cs",
+              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Banco\\Repositories\\DependenteRepository.cs",
+              "RelativeToolTip": "Banco\\Repositories\\DependenteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T23:05:48.146Z",
+              "WhenOpened": "2026-08-08T00:07:54.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FrmLoginFuncionario.cs",
-              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmLoginFuncionario.cs",
-              "RelativeDocumentMoniker": "Forms\\FrmLoginFuncionario.cs",
-              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmLoginFuncionario.cs",
-              "RelativeToolTip": "Forms\\FrmLoginFuncionario.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAuwDIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T00:34:36.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "FuncionarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Banco\\Repositories\\FuncionarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Banco\\Repositories\\FuncionarioRepository.cs",
               "RelativeDocumentMoniker": "Banco\\Repositories\\FuncionarioRepository.cs",
-              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Banco\\Repositories\\FuncionarioRepository.cs",
+              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Banco\\Repositories\\FuncionarioRepository.cs",
               "RelativeToolTip": "Banco\\Repositories\\FuncionarioRepository.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAnwFoAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-15T23:00:26.354Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Funcionario.cs",
-              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Modelos\\Funcionario.cs",
-              "RelativeDocumentMoniker": "Modelos\\Funcionario.cs",
-              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Modelos\\Funcionario.cs",
-              "RelativeToolTip": "Modelos\\Funcionario.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAywEgAAABDAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "FrmDependente.cs",
+              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmDependente.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDependente.cs",
+              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmDependente.cs",
+              "RelativeToolTip": "Forms\\FrmDependente.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA/wCIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T22:57:28.043Z",
+              "WhenOpened": "2026-08-07T23:01:34.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmAtualizacaoFuncionarioNovo.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Forms\\frmAtualizacaoFuncionarioNovo.cs",
-              "RelativeDocumentMoniker": "Forms\\frmAtualizacaoFuncionarioNovo.cs",
-              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Forms\\frmAtualizacaoFuncionarioNovo.cs [Projeto]",
-              "RelativeToolTip": "Forms\\frmAtualizacaoFuncionarioNovo.cs [Projeto]",
+              "DocumentIndex": 3,
+              "Title": "FrmDependente.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmDependente.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmDependente.cs",
+              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmDependente.cs [Projeto]",
+              "RelativeToolTip": "Forms\\FrmDependente.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T22:50:35.141Z",
+              "WhenOpened": "2026-08-07T22:47:12.095Z",
               "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmCadastroFuncionario.cs",
-              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmCadastroFuncionario.cs",
-              "RelativeDocumentMoniker": "Forms\\FrmCadastroFuncionario.cs",
-              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmCadastroFuncionario.cs",
-              "RelativeToolTip": "Forms\\FrmCadastroFuncionario.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAhwDkAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Dependente.cs",
+              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Modelos\\Dependente.cs",
+              "RelativeDocumentMoniker": "Modelos\\Dependente.cs",
+              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Modelos\\Dependente.cs",
+              "RelativeToolTip": "Modelos\\Dependente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T22:59:50.178Z",
+              "WhenOpened": "2026-08-07T22:41:57.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "FrmTelaPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmTelaPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmTelaPrincipal.cs",
               "RelativeDocumentMoniker": "Forms\\FrmTelaPrincipal.cs",
-              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmTelaPrincipal.cs",
+              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmTelaPrincipal.cs",
               "RelativeToolTip": "Forms\\FrmTelaPrincipal.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAAwF8AAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAuwJYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T23:11:58.294Z",
+              "WhenOpened": "2026-08-05T23:02:29.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Modelos\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Modelos\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Modelos\\Funcionario.cs",
+              "RelativeToolTip": "Modelos\\Funcionario.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwD0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T22:57:28.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "FrmTelaPrincipal.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmTelaPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmTelaPrincipal.cs",
               "RelativeDocumentMoniker": "Forms\\FrmTelaPrincipal.cs",
-              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmTelaPrincipal.cs [Projeto]",
+              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmTelaPrincipal.cs [Projeto]",
               "RelativeToolTip": "Forms\\FrmTelaPrincipal.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T23:05:22.325Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2026-08-05T22:58:52.658Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "FrmTelaNova.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmTelaNova.cs",
-              "RelativeDocumentMoniker": "Forms\\FrmTelaNova.cs",
-              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmTelaNova.cs [Projeto]",
-              "RelativeToolTip": "Forms\\FrmTelaNova.cs [Projeto]",
+              "Title": "FrmCadastroFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmCadastroFuncionario.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmCadastroFuncionario.cs",
+              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmCadastroFuncionario.cs",
+              "RelativeToolTip": "Forms\\FrmCadastroFuncionario.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T00:26:49.588Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2026-08-03T22:59:50.178Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "FormLoginAdministrador.cs",
-              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Forms\\FormLoginAdministrador.cs",
-              "RelativeDocumentMoniker": "Forms\\FormLoginAdministrador.cs",
-              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Forms\\FormLoginAdministrador.cs",
-              "RelativeToolTip": "Forms\\FormLoginAdministrador.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA+wBoAAAApAAAAAAAAAA==",
+              "Title": "FrmTelaNova.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmTelaNova.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmTelaNova.cs",
+              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmTelaNova.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\C#-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmTelaNova.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T00:35:29.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-23T00:26:49.588Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "FormLoginAdministrador.cs",
+              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Forms\\FormLoginAdministrador.cs",
+              "RelativeDocumentMoniker": "Forms\\FormLoginAdministrador.cs",
+              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Forms\\FormLoginAdministrador.cs",
+              "RelativeToolTip": "Forms\\FormLoginAdministrador.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA+wBoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T00:35:29.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "FrmTelaNova.cs",
-              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmTelaNova.cs",
+              "DocumentMoniker": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmTelaNova.cs",
               "RelativeDocumentMoniker": "Forms\\FrmTelaNova.cs",
-              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmTelaNova.cs",
+              "ToolTip": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\Forms\\FrmTelaNova.cs",
               "RelativeToolTip": "Forms\\FrmTelaNova.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAlwCQAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T00:26:51.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-23T00:26:51.261Z"
             }
           ]
         }

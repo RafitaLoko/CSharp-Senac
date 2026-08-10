@@ -59,6 +59,8 @@ namespace GerenciamentoDeFuncionarios.Modelos
         public DateTime? DataDeAtualizacao { get; set; }
         public string Senha { get; private set; }
 
+        public List<Dependente> dependentes { get; private set; }
+
 
         public void SetEmail(string email) { this.Email = email; }
 

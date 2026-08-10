@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qPAP0vF3b1Q=",
+  "dgSpecHash": "garvavt5S0k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\C#-Senac\\GerenciamentoDeFuncionarios\\GerenciamentoDeFuncionarios.csproj",
+  "projectFilePath": "C:\\Users\\RAFAELDECARVALHOWEND\\Desktop\\CSharp-Senac\\GerenciamentoDeFuncionarios\\GerenciamentoDeFuncionarios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RAFAELDECARVALHOWEND\\.nuget\\packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512",
     "C:\\Users\\RAFAELDECARVALHOWEND\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",

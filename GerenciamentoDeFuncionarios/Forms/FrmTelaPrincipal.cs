@@ -28,7 +28,10 @@ namespace GerenciamentoDeFuncionarios.Forms
 
             BtnExcluir.Visible = false;
             BtnNovo.Visible = false;
-
+            btnLimpar.Visible = false;
+            btnBuscar.Visible = false;
+            cbFiltro.Visible = false;
+            txtCampo.Visible = false;
         }
 
         private async void FrmTelaPrincipal_Load1(object? sender, EventArgs e)
@@ -36,6 +39,13 @@ namespace GerenciamentoDeFuncionarios.Forms
             var funcionarios = await FuncionarioRepository.ObterTodos();
 
             dgvFuncionarios.DataSource = new BindingList<Funcionario>(funcionarios.ToList());
+
+
+            cbFiltro.Items.Add("Todos");
+            cbFiltro.Items.Add("CLT");
+            cbFiltro.Items.Add("PJ");
+            cbFiltro.Items.Add("AUTONOMO");
+            cbFiltro.SelectedIndex = 0;
         }
 
         private void FrmTelaPrincipal_Load(object sender, EventArgs e)
@@ -74,7 +84,7 @@ namespace GerenciamentoDeFuncionarios.Forms
         }
 
         private async void BtnEditar_Click(object sender, EventArgs e)
-        {            
+        {
 
 
             //int idFuncionario = (int)dgvFuncionarios.CurrentRow.Cells[0].Value;
@@ -101,5 +111,51 @@ namespace GerenciamentoDeFuncionarios.Forms
             new frmAtualizacaoFuncionarioNovo(idParaEditar).ShowDialog();
             await AtualizarTabela();
         }
+
+        private void txtCampo_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cbFiltro_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dgvFuncionarios_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private async void btnBuscar_Click(object sender, EventArgs e)
+        {
+
+            var termo = txtCampo.Text;
+            var tipoContrato = cbFiltro.SelectedItem?.ToString() ?? "Todos";
+
+            var funcionarios = await FuncionarioRepository.BuscarPorNomeOuEmail(termo, tipoContrato);
+
+            dgvFuncionarios.DataSource = new BindingList<Funcionario>(funcionarios);
+
+            if (funcionarios.Count == 0)
+            {
+                MessageBox.Show("Nenhum funcionario encontrado.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            else
+            {
+             //Nada chefia
+            }
+
+        }
+                private async void btnLimpar_Click(object sender, EventArgs e)
+                {
+                    txtCampo.Text = "";
+                    await AtualizarTabela();
+                }
     }
 }

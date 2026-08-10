@@ -100,5 +100,31 @@ namespace GerenciamentoDeFuncionarios.Banco.Repositories
                 funcionario);
             
         }
+
+        public static async Task<List<Funcionario>>BuscarPorNomeOuEmail(string termo, string tipoContrato)
+        {
+           string sql = @"
+                
+                SELECT
+                Id, Nome, Email, Sexo, TipoDeContrato, Salario, DataDeCadastro, DataDeAtualizacao, Senha
+                FROM funcionario
+                WHERE 
+                Nome ILIKE @Termo OR Email ILIKE @Termo
+                ";
+                
+
+            if (tipoContrato != "Todos")
+            {
+                sql += "AND TipoDeContrato = @TipoDeContrato";
+            }
+            var funcionarios = await ConexaoBanco.CriarConexao().QueryAsync<Funcionario>(
+                sql,
+                new { Termo = $"%{termo}%", TipoDeContrato = tipoContrato });
+                
+                
+            return funcionarios.ToList();
+                
+                
+        }
     }
 }
